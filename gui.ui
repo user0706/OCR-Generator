@@ -14,8 +14,8 @@
    <string>OCR Generator</string>
   </property>
   <property name="windowIcon">
-   <iconset>
-    <normaloff>:/img/logo.svg</normaloff>:/img/logo.svg</iconset>
+   <iconset resource="src.qrc">
+    <normaloff>:/img/Icons/logo.svg</normaloff>:/img/Icons/logo.svg</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">QMainWindow{
