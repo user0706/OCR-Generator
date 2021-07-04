@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="img">
+    <file>Icons/add-svgrepo-com.svg</file>
+    <file>Icons/change-directory.svg</file>
+    <file>Icons/down-arrow-svgrepo-com.svg</file>
+    <file>Icons/error-svgrepo-com.svg</file>
+    <file>Icons/folder-svgrepo-com.svg</file>
+    <file>Icons/logo.svg</file>
+    <file>Icons/more-svgrepo-com.svg</file>
+    <file>Icons/plus-svgrepo-com.svg</file>
+    <file>Icons/stop-svgrepo-com.svg</file>
+    <file>Icons/transfer-svgrepo-com.svg</file>
+    <file>Icons/trash-svgrepo-com.svg</file>
+    <file>Icons/up-arrow-svgrepo-com.svg</file>
+  </qresource>
+</RCC>
